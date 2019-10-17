@@ -2,6 +2,8 @@ print('Hi Git')
 
 print('Hi from another dev')
 print('Hi from another dev')
-print('My local change')
+
+print('Update python code for merge conflict')
+
 
 Hello
